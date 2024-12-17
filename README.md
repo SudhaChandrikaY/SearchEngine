@@ -1,6 +1,6 @@
 **Search Engine Project**
 
-This repository contains a simple Search Engine implemented for an Information Retrieval task. It includes components for web crawling, text preprocessing, stemming, and a ranking mechanism using the Vector Space Model.
+This repository contains a simple Search Engine implemented with https://ku.edu as seed page. It includes components web crawling, text preprocessing, stemming, and a ranking mechanism using the Vector Space Model.
 ________________________________________
 **Features**
 
@@ -20,18 +20,18 @@ pip install numpy requests beautifulsoup4
 ________________________________________
 **Setup and Usage**
 
-  1.	Clone the repository:
-  2.	git clone:
+1.	Clone the repository:
+2.	git clone:
 ```
 https://github.com/SudhaChandrikaY/SearchEngine.git
 ```
-  4.	cd SearchEngine
-  5.	Run the Search Engine:
-  Execute the application with:
-  6.	python app.py
-  7.	Search:
-  o	Enter a search query when prompted.
-  o	The program will output ranked results based on relevance.
+3.	cd SearchEngine
+4.	Run the Search Engine:
+Execute the application with:
+5.	python app.py
+6.	Search:
+  	- Enter a search query when prompted.
+    - The program will output ranked results based on relevance.
 ________________________________________
 **Project Structure**
 
