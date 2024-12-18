@@ -1,4 +1,4 @@
-**Search Engine Project**
+**Search Engine: Domain-based (KU)**
 
 This repository contains a simple Search Engine implemented with https://ku.edu as seed page. It includes components web crawling, text preprocessing, stemming, and a ranking mechanism using the Vector Space Model.
 ________________________________________
@@ -41,6 +41,13 @@ ________________________________________
 - VectorSpaceModel.py: Processes term weights and query rankings.
 - stopwords.txt: A list of stopwords for filtering.
 - app.py: Main script to run the search engine.
+________________________________________
+**Images**
+
+![image](https://github.com/user-attachments/assets/d1f38f8a-5b0c-48a9-ab20-b2ea9669ad27)
+
+![image](https://github.com/user-attachments/assets/2640df6f-2eca-4c07-97e1-d619df1cb1f3)
+
 ________________________________________
 Author: SudhaChandrikaY
 
